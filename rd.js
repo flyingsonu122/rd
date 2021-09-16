@@ -1,11 +1,11 @@
-// var url = 'https://www.rd.com/feed/'
+
 
 const textarea = document.querySelector('#feed-textarea > ul');
 
 const date = new Date();
 document.querySelector('#date').innerHTML = date.toDateString();
 
-// var url = 'https://www.rd.com/feed/atom/'
+
 
 var url = 'https://buttondown.email/cassidoo/rss'
 
